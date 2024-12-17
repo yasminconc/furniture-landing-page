@@ -1,7 +1,7 @@
 
 const Header: React.FC = () => {
   return (
-    <header className="absolute mt-2 flex justify-around items-center w-full p-4 text-white ">
+    <header className="bg-transparent flex justify-around items-center w-full pt-8 text-white ">
         <h1 className='sm:text-3xl font-bold'>Panto</h1>
 
         <nav className='flex space-x-12 text-lg '>
